@@ -1,0 +1,6 @@
+venv/
+.idea/
+dist/
+testDKPB.egg-info/
+
+instructions.txt
